@@ -867,3 +867,54 @@ Script Stack (0 frames):
 [2020.05.20-01.39.52:047][498]SourceControl: fatal: D:/software/UE/UE_4.25/Engine/Plugins/Runtime/SunPosition/Content: 'D:/software/UE/UE_4.25/Engine/Plugins/Runtime/SunPosition/Content' is outside repository at 'D:/Projects/Test/GitTest/BBAUE4TestProject'
 [2020.05.20-01.39.52:149][498]EditorErrors: Warning: 没有要迁入的资产！
 [2020.05.20-02.00.36:188][988]LogSlate: Window '源码管理登陆' being destroyed
+[2020.05.20-02.04.06:419][260]LogSlate: Window '源码管理登陆' being destroyed
+[2020.05.20-02.08.52:645][354]SourceControl: fatal: D:/software/UE/UE_4.25/Engine/Plugins/Runtime/SunPosition/Content/SunSky.uasset: 'D:/software/UE/UE_4.25/Engine/Plugins/Runtime/SunPosition/Content/SunSky.uasset' is outside repository at 'D:/Projects/Test/GitTest/BBAUE4TestProject'
+[2020.05.20-02.08.52:645][354]SourceControl: fatal: D:/software/UE/UE_4.25/Engine/Content/EngineMaterials: 'D:/software/UE/UE_4.25/Engine/Content/EngineMaterials' is outside repository at 'D:/Projects/Test/GitTest/BBAUE4TestProject'
+[2020.05.20-02.08.52:645][354]SourceControl: fatal: D:/software/UE/UE_4.25/Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset: 'D:/software/UE/UE_4.25/Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset' is outside repository at 'D:/Projects/Test/GitTest/BBAUE4TestProject'
+[2020.05.20-02.08.52:645][354]SourceControl: fatal: D:/software/UE/UE_4.25/Engine/Content/EditorBlueprintResources/StandardMacros.uasset: 'D:/software/UE/UE_4.25/Engine/Content/EditorBlueprintResources/StandardMacros.uasset' is outside repository at 'D:/Projects/Test/GitTest/BBAUE4TestProject'
+[2020.05.20-02.08.52:645][354]SourceControl: fatal: D:/software/UE/UE_4.25/Engine/Content/EngineSky: 'D:/software/UE/UE_4.25/Engine/Content/EngineSky' is outside repository at 'D:/Projects/Test/GitTest/BBAUE4TestProject'
+[2020.05.20-02.08.52:645][354]SourceControl: fatal: D:/software/UE/UE_4.25/Engine/Plugins/Runtime/SunPosition/Content/Editor: 'D:/software/UE/UE_4.25/Engine/Plugins/Runtime/SunPosition/Content/Editor' is outside repository at 'D:/Projects/Test/GitTest/BBAUE4TestProject'
+[2020.05.20-02.08.52:645][354]SourceControl: fatal: D:/software/UE/UE_4.25/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset: 'D:/software/UE/UE_4.25/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset' is outside repository at 'D:/Projects/Test/GitTest/BBAUE4TestProject'
+[2020.05.20-02.08.52:806][354]SourceControl: Error: error: cannot pull with rebase: You have unstaged changes.
+[2020.05.20-02.08.52:806][354]SourceControl: Error: error: please commit or stash them.
+[2020.05.20-02.08.52:808][354]LogContentBrowser: Syncing 1 path(s):
+[2020.05.20-02.08.52:808][354]LogContentBrowser: 	 - /Game/Main_BuiltData
+[2020.05.20-02.08.52:808][354]LogContentBrowser: 	 - /Game/Main
+[2020.05.20-02.08.52:809][354]LightingResults: New page: 光照构建
+[2020.05.20-02.08.52:810][354]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-02.08.52:810][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.20-02.08.52:822][354]MapCheck: New page: 地图检测
+[2020.05.20-02.08.52:822][354]LightingResults: New page: 光照构建
+[2020.05.20-02.08.52:854][354]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002DD8E27F380), frame # 58354
+[2020.05.20-02.08.52:854][354]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002DD8E087200), frame # 58354
+[2020.05.20-02.08.52:856][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.05.20-02.08.52:866][354]LogAIModule: Creating AISystem for world Untitled
+[2020.05.20-02.08.52:866][354]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002DDF91C4600), frame # 58354
+[2020.05.20-02.08.52:866][354]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002DE2C0420C0), frame # 58354
+[2020.05.20-02.08.52:974][354]LoadErrors: New page: 新建地图
+[2020.05.20-02.08.52:986][354]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.20-02.08.53:000][354]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Main.Main
+[2020.05.20-02.08.53:037][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.05.20-02.08.53:038][354]Cmd: MAP LOAD FILE="../../../../../../Projects/Test/GitTest/BBAUE4TestProject/GitTestProject/Content/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.20-02.08.53:038][354]LightingResults: New page: 光照构建
+[2020.05.20-02.08.53:038][354]LoadErrors: New page: 正在加载地图：Main.umap
+[2020.05.20-02.08.53:039][354]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-02.08.53:039][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.20-02.08.53:040][354]MapCheck: New page: 地图检测
+[2020.05.20-02.08.53:040][354]LightingResults: New page: 光照构建
+[2020.05.20-02.08.53:058][354]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002DE2C0420C0), frame # 58354
+[2020.05.20-02.08.53:058][354]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002DDF91C4600), frame # 58354
+[2020.05.20-02.08.53:059][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.05.20-02.08.53:164][354]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.20-02.08.53:164][354]LogAIModule: Creating AISystem for world Main
+[2020.05.20-02.08.53:165][354]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002DE5C381600), frame # 58354
+[2020.05.20-02.08.53:165][354]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002DD8E04D6C0), frame # 58354
+[2020.05.20-02.08.53:196][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.05.20-02.08.53:218][354]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.20-02.08.53:221][354]MapCheck: 地图检测完成：0个错误、0个警告、完成用时1.913毫秒。
+[2020.05.20-02.08.53:221][354]LogFileHelpers: Loading map 'Main' took 0.183
+[2020.05.20-02.10.59:892][229]LogSlate: Window '选取父类' being destroyed
+[2020.05.20-02.11.16:219][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/test" FILE="../../../../../../Projects/Test/GitTest/BBAUE4TestProject/GitTestProject/Content/test.uasset" SILENT=true
+[2020.05.20-02.11.16:327][883]LogSavePackage: Moving '../../../../../../Projects/Test/GitTest/BBAUE4TestProject/GitTestProject/Saved/test8D2456DC45DC193537B40F9A7EDEF662.tmp' to '../../../../../../Projects/Test/GitTest/BBAUE4TestProject/GitTestProject/Content/test.uasset'
+[2020.05.20-02.11.16:781][883]AssetCheck: New page: 资产保存：test
+[2020.05.20-02.11.16:781][883]LogContentValidation: Display: 正在验证Blueprint /Game/test.test
